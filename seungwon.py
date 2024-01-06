@@ -1,1 +1,1 @@
-print("김승원입니다")
+print("seungwon 안녕하세요")
